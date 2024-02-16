@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ejercicio-f7062": {
+      "hosting": {
+        "app": [
+          "ejercicio-f7062"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ejercicio-f7062"
+  }
+}
