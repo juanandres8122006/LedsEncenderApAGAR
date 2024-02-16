@@ -1,0 +1,7 @@
+{
+  "name": "LedsEncenderApAGAR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
